@@ -1,0 +1,94 @@
+{
+  "release": "35.0.0",
+  "name": "Academic Content & Assessment Excellence",
+  "date": "2026-11-07",
+  "reading": {
+    "days": 84,
+    "questions": 840,
+    "exact_passage_evidence": 812,
+    "not_given_absence_cases": 28,
+    "invalid_answer_indices": 0,
+    "missing_explanations": 0,
+    "passage_word_range": [
+      722,
+      879
+    ],
+    "method": "Power Lab challenge submission requires an answer, exact passage quote for normal answers, and reason. NOT GIVEN requires an absence rationale and no external knowledge."
+  },
+  "listening": {
+    "days": 84,
+    "questions": 420,
+    "exact_script_evidence": 420,
+    "invalid_answer_indices": 0,
+    "missing_explanations": 0,
+    "script_word_range": [
+      446,
+      493
+    ],
+    "method": "Power Lab challenge submission requires the day MP3 to be played and a phrase that matches the scripted source. Audio is synthetic original IELTS Boost practice, not official IELTS audio."
+  },
+  "writing": {
+    "task1_visuals": 84,
+    "task1_distribution": {
+      "line_graph": 14,
+      "bar_chart": 14,
+      "pie_chart": 14,
+      "table": 14,
+      "process": 14,
+      "map": 14
+    },
+    "task2_prompts": 84,
+    "unique_task2_prompts": 84,
+    "criteria": [
+      "Task Achievement (Task 1) / Task Response (Task 2)",
+      "Coherence & Cohesion",
+      "Lexical Resource",
+      "Grammatical Range & Accuracy"
+    ],
+    "evidence_per_criterion_required": true,
+    "minimum_words": {
+      "task1": 150,
+      "task2": 250
+    },
+    "task2_prompt_taxonomy": {
+      "Opinion / extent": 14,
+      "Discuss both views": 21,
+      "Advantages / disadvantages": 21,
+      "Problem / solution + direct": 14,
+      "Cause / effect": 7,
+      "Outweigh": 7
+    },
+    "self_review_only": true
+  },
+  "speaking": {
+    "part1_prompts": 252,
+    "part2_cue_cards": 84,
+    "part3_prompts": 252,
+    "criteria": [
+      "Fluency & Coherence",
+      "Lexical Resource",
+      "Grammatical Range & Accuracy",
+      "Pronunciation"
+    ],
+    "audio_recording_and_replay_required_for_powerlab_review": true,
+    "pronunciation_from_transcript": false,
+    "self_review_only": true
+  },
+  "vocabulary": {
+    "indexed_unique_forms": 19000,
+    "strict_bundled_glossary": 677,
+    "pronunciation_index_only": 4000,
+    "manual_enrichment_without_definition": 14323,
+    "daily_recall_complete_gloss_entries": 672,
+    "local_curator": "Definition source URL/title and a separate CEFR sense-level source URL; local learner-reviewed override with JSON import/export.",
+    "cefr_policy": "Inherited levels remain estimates; a learner must check and record a sense-level source before assigning a verified CEFR label."
+  },
+  "quality_policy": "No automatic IELTS examiner band is generated. Local 0–10 values are practice metrics. Official IELTS descriptors are paraphrased as guidance and linked to rights holders; no protected tests, audio or publisher text were copied.",
+  "qa": {
+    "node_logic_harness_passed": 21,
+    "node_logic_harness_total": 21,
+    "mp3_full_decode_passed": 84,
+    "mp3_total": 84,
+    "browser_android_acceptance": "open"
+  }
+}

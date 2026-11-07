@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "IELTS Boost — 84-Day Academic Mastery · Stage 35",
+  "short_name": "IELTS Boost",
+  "lang": "uz",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "description": "84-day IELTS Academic platform with 4 core skill studios, 6 language labs, evidence-based self-review, local glossary curation and original synthetic practice audio.",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

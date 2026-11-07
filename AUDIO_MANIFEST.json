@@ -1,0 +1,769 @@
+{
+  "count": 84,
+  "codec": "MP3 mono 24 kHz, 32 kbps",
+  "note": "84 playable MP3s generated from original IELTS Boost daily Listening scripts using synthetic computer-generated English voices. They are practice recordings, not official IELTS/British Council/Cambridge exam audio. All 84 files passed full decode QA. Each file is cached by the PWA only after first online request.",
+  "tracks": [
+    {
+      "day": 1,
+      "path": "./audio/listening-day-01.mp3",
+      "duration_seconds": 181.3,
+      "word_count": 484,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 725420
+    },
+    {
+      "day": 2,
+      "path": "./audio/listening-day-02.mp3",
+      "duration_seconds": 169.9,
+      "word_count": 471,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 679820
+    },
+    {
+      "day": 3,
+      "path": "./audio/listening-day-03.mp3",
+      "duration_seconds": 159.7,
+      "word_count": 461,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 639020
+    },
+    {
+      "day": 4,
+      "path": "./audio/listening-day-04.mp3",
+      "duration_seconds": 176.3,
+      "word_count": 466,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 705068
+    },
+    {
+      "day": 5,
+      "path": "./audio/listening-day-05.mp3",
+      "duration_seconds": 165.4,
+      "word_count": 464,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 661772
+    },
+    {
+      "day": 6,
+      "path": "./audio/listening-day-06.mp3",
+      "duration_seconds": 161.5,
+      "word_count": 465,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 645932
+    },
+    {
+      "day": 7,
+      "path": "./audio/listening-day-07.mp3",
+      "duration_seconds": 181.6,
+      "word_count": 461,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 726572
+    },
+    {
+      "day": 8,
+      "path": "./audio/listening-day-08.mp3",
+      "duration_seconds": 172.1,
+      "word_count": 459,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 688460
+    },
+    {
+      "day": 9,
+      "path": "./audio/listening-day-09.mp3",
+      "duration_seconds": 162.3,
+      "word_count": 461,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 649100
+    },
+    {
+      "day": 10,
+      "path": "./audio/listening-day-10.mp3",
+      "duration_seconds": 171.2,
+      "word_count": 475,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 684908
+    },
+    {
+      "day": 11,
+      "path": "./audio/listening-day-11.mp3",
+      "duration_seconds": 170.0,
+      "word_count": 446,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 680204
+    },
+    {
+      "day": 12,
+      "path": "./audio/listening-day-12.mp3",
+      "duration_seconds": 168.0,
+      "word_count": 470,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 672044
+    },
+    {
+      "day": 13,
+      "path": "./audio/listening-day-13.mp3",
+      "duration_seconds": 161.7,
+      "word_count": 470,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 646700
+    },
+    {
+      "day": 14,
+      "path": "./audio/listening-day-14.mp3",
+      "duration_seconds": 182.6,
+      "word_count": 467,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 730508
+    },
+    {
+      "day": 15,
+      "path": "./audio/listening-day-15.mp3",
+      "duration_seconds": 179.8,
+      "word_count": 463,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 719372
+    },
+    {
+      "day": 16,
+      "path": "./audio/listening-day-16.mp3",
+      "duration_seconds": 171.4,
+      "word_count": 460,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 685772
+    },
+    {
+      "day": 17,
+      "path": "./audio/listening-day-17.mp3",
+      "duration_seconds": 165.1,
+      "word_count": 459,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 660524
+    },
+    {
+      "day": 18,
+      "path": "./audio/listening-day-18.mp3",
+      "duration_seconds": 165.7,
+      "word_count": 465,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 663020
+    },
+    {
+      "day": 19,
+      "path": "./audio/listening-day-19.mp3",
+      "duration_seconds": 171.8,
+      "word_count": 475,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 687212
+    },
+    {
+      "day": 20,
+      "path": "./audio/listening-day-20.mp3",
+      "duration_seconds": 159.0,
+      "word_count": 450,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 636236
+    },
+    {
+      "day": 21,
+      "path": "./audio/listening-day-21.mp3",
+      "duration_seconds": 174.5,
+      "word_count": 462,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 698060
+    },
+    {
+      "day": 22,
+      "path": "./audio/listening-day-22.mp3",
+      "duration_seconds": 179.8,
+      "word_count": 472,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 719276
+    },
+    {
+      "day": 23,
+      "path": "./audio/listening-day-23.mp3",
+      "duration_seconds": 171.3,
+      "word_count": 461,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 685388
+    },
+    {
+      "day": 24,
+      "path": "./audio/listening-day-24.mp3",
+      "duration_seconds": 166.4,
+      "word_count": 458,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 665804
+    },
+    {
+      "day": 25,
+      "path": "./audio/listening-day-25.mp3",
+      "duration_seconds": 180.7,
+      "word_count": 475,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 722828
+    },
+    {
+      "day": 26,
+      "path": "./audio/listening-day-26.mp3",
+      "duration_seconds": 170.7,
+      "word_count": 465,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 682988
+    },
+    {
+      "day": 27,
+      "path": "./audio/listening-day-27.mp3",
+      "duration_seconds": 160.2,
+      "word_count": 457,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 640940
+    },
+    {
+      "day": 28,
+      "path": "./audio/listening-day-28.mp3",
+      "duration_seconds": 174.3,
+      "word_count": 458,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 697100
+    },
+    {
+      "day": 29,
+      "path": "./audio/listening-day-29.mp3",
+      "duration_seconds": 178.1,
+      "word_count": 467,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 712460
+    },
+    {
+      "day": 30,
+      "path": "./audio/listening-day-30.mp3",
+      "duration_seconds": 167.4,
+      "word_count": 472,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 669836
+    },
+    {
+      "day": 31,
+      "path": "./audio/listening-day-31.mp3",
+      "duration_seconds": 169.8,
+      "word_count": 470,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 679148
+    },
+    {
+      "day": 32,
+      "path": "./audio/listening-day-32.mp3",
+      "duration_seconds": 172.2,
+      "word_count": 465,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 688940
+    },
+    {
+      "day": 33,
+      "path": "./audio/listening-day-33.mp3",
+      "duration_seconds": 164.3,
+      "word_count": 474,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 657068
+    },
+    {
+      "day": 34,
+      "path": "./audio/listening-day-34.mp3",
+      "duration_seconds": 165.8,
+      "word_count": 472,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 663116
+    },
+    {
+      "day": 35,
+      "path": "./audio/listening-day-35.mp3",
+      "duration_seconds": 175.8,
+      "word_count": 446,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 703340
+    },
+    {
+      "day": 36,
+      "path": "./audio/listening-day-36.mp3",
+      "duration_seconds": 176.9,
+      "word_count": 460,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 707756
+    },
+    {
+      "day": 37,
+      "path": "./audio/listening-day-37.mp3",
+      "duration_seconds": 175.7,
+      "word_count": 475,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 702668
+    },
+    {
+      "day": 38,
+      "path": "./audio/listening-day-38.mp3",
+      "duration_seconds": 168.9,
+      "word_count": 480,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 675788
+    },
+    {
+      "day": 39,
+      "path": "./audio/listening-day-39.mp3",
+      "duration_seconds": 168.1,
+      "word_count": 463,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 672428
+    },
+    {
+      "day": 40,
+      "path": "./audio/listening-day-40.mp3",
+      "duration_seconds": 169.3,
+      "word_count": 459,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 677420
+    },
+    {
+      "day": 41,
+      "path": "./audio/listening-day-41.mp3",
+      "duration_seconds": 164.8,
+      "word_count": 467,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 659180
+    },
+    {
+      "day": 42,
+      "path": "./audio/listening-day-42.mp3",
+      "duration_seconds": 179.4,
+      "word_count": 461,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 717644
+    },
+    {
+      "day": 43,
+      "path": "./audio/listening-day-43.mp3",
+      "duration_seconds": 170.5,
+      "word_count": 454,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 681932
+    },
+    {
+      "day": 44,
+      "path": "./audio/listening-day-44.mp3",
+      "duration_seconds": 168.3,
+      "word_count": 450,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 673292
+    },
+    {
+      "day": 45,
+      "path": "./audio/listening-day-45.mp3",
+      "duration_seconds": 164.4,
+      "word_count": 471,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 657740
+    },
+    {
+      "day": 46,
+      "path": "./audio/listening-day-46.mp3",
+      "duration_seconds": 175.0,
+      "word_count": 464,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 700172
+    },
+    {
+      "day": 47,
+      "path": "./audio/listening-day-47.mp3",
+      "duration_seconds": 164.5,
+      "word_count": 452,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 658124
+    },
+    {
+      "day": 48,
+      "path": "./audio/listening-day-48.mp3",
+      "duration_seconds": 156.7,
+      "word_count": 458,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 626732
+    },
+    {
+      "day": 49,
+      "path": "./audio/listening-day-49.mp3",
+      "duration_seconds": 170.4,
+      "word_count": 473,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 681644
+    },
+    {
+      "day": 50,
+      "path": "./audio/listening-day-50.mp3",
+      "duration_seconds": 183.6,
+      "word_count": 473,
+      "voice": "eSpeak synthetic en-US voice; regenerated sequentially after audio-duration QA",
+      "provenance": "Original IELTS Boost scripted practice; computer-generated English speech; not an official IELTS recording.",
+      "size_bytes": 734636
+    },
+    {
+      "day": 51,
+      "path": "./audio/listening-day-51.mp3",
+      "duration_seconds": 171.8,
+      "word_count": 458,
+      "voice": "eSpeak synthetic en-US voice; regenerated sequentially after audio-duration QA",
+      "provenance": "Original IELTS Boost scripted practice; computer-generated English speech; not an official IELTS recording.",
+      "size_bytes": 687212
+    },
+    {
+      "day": 52,
+      "path": "./audio/listening-day-52.mp3",
+      "duration_seconds": 166.2,
+      "word_count": 461,
+      "voice": "eSpeak synthetic en-US voice; regenerated sequentially after audio-duration QA",
+      "provenance": "Original IELTS Boost scripted practice; computer-generated English speech; not an official IELTS recording.",
+      "size_bytes": 664844
+    },
+    {
+      "day": 53,
+      "path": "./audio/listening-day-53.mp3",
+      "duration_seconds": 178.8,
+      "word_count": 460,
+      "voice": "eSpeak synthetic en-US voice; regenerated sequentially after audio-duration QA",
+      "provenance": "Original IELTS Boost scripted practice; computer-generated English speech; not an official IELTS recording.",
+      "size_bytes": 715052
+    },
+    {
+      "day": 54,
+      "path": "./audio/listening-day-54.mp3",
+      "duration_seconds": 165.2,
+      "word_count": 473,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 660908
+    },
+    {
+      "day": 55,
+      "path": "./audio/listening-day-55.mp3",
+      "duration_seconds": 168.2,
+      "word_count": 464,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 672716
+    },
+    {
+      "day": 56,
+      "path": "./audio/listening-day-56.mp3",
+      "duration_seconds": 175.6,
+      "word_count": 450,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 702380
+    },
+    {
+      "day": 57,
+      "path": "./audio/listening-day-57.mp3",
+      "duration_seconds": 179.9,
+      "word_count": 469,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 719756
+    },
+    {
+      "day": 58,
+      "path": "./audio/listening-day-58.mp3",
+      "duration_seconds": 170.4,
+      "word_count": 490,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 681836
+    },
+    {
+      "day": 59,
+      "path": "./audio/listening-day-59.mp3",
+      "duration_seconds": 173.9,
+      "word_count": 483,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 695660
+    },
+    {
+      "day": 60,
+      "path": "./audio/listening-day-60.mp3",
+      "duration_seconds": 175.7,
+      "word_count": 479,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 702956
+    },
+    {
+      "day": 61,
+      "path": "./audio/listening-day-61.mp3",
+      "duration_seconds": 170.7,
+      "word_count": 480,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 682892
+    },
+    {
+      "day": 62,
+      "path": "./audio/listening-day-62.mp3",
+      "duration_seconds": 171.6,
+      "word_count": 462,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 686252
+    },
+    {
+      "day": 63,
+      "path": "./audio/listening-day-63.mp3",
+      "duration_seconds": 172.5,
+      "word_count": 461,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 689900
+    },
+    {
+      "day": 64,
+      "path": "./audio/listening-day-64.mp3",
+      "duration_seconds": 192.3,
+      "word_count": 493,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 769100
+    },
+    {
+      "day": 65,
+      "path": "./audio/listening-day-65.mp3",
+      "duration_seconds": 172.5,
+      "word_count": 477,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 690092
+    },
+    {
+      "day": 66,
+      "path": "./audio/listening-day-66.mp3",
+      "duration_seconds": 163.2,
+      "word_count": 454,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 652748
+    },
+    {
+      "day": 67,
+      "path": "./audio/listening-day-67.mp3",
+      "duration_seconds": 178.2,
+      "word_count": 463,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 712940
+    },
+    {
+      "day": 68,
+      "path": "./audio/listening-day-68.mp3",
+      "duration_seconds": 163.5,
+      "word_count": 464,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 654092
+    },
+    {
+      "day": 69,
+      "path": "./audio/listening-day-69.mp3",
+      "duration_seconds": 157.0,
+      "word_count": 462,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 628076
+    },
+    {
+      "day": 70,
+      "path": "./audio/listening-day-70.mp3",
+      "duration_seconds": 182.4,
+      "word_count": 469,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 729548
+    },
+    {
+      "day": 71,
+      "path": "./audio/listening-day-71.mp3",
+      "duration_seconds": 179.5,
+      "word_count": 468,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 718028
+    },
+    {
+      "day": 72,
+      "path": "./audio/listening-day-72.mp3",
+      "duration_seconds": 166.2,
+      "word_count": 459,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 664748
+    },
+    {
+      "day": 73,
+      "path": "./audio/listening-day-73.mp3",
+      "duration_seconds": 166.8,
+      "word_count": 472,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 667148
+    },
+    {
+      "day": 74,
+      "path": "./audio/listening-day-74.mp3",
+      "duration_seconds": 183.0,
+      "word_count": 489,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 732044
+    },
+    {
+      "day": 75,
+      "path": "./audio/listening-day-75.mp3",
+      "duration_seconds": 171.6,
+      "word_count": 480,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 686348
+    },
+    {
+      "day": 76,
+      "path": "./audio/listening-day-76.mp3",
+      "duration_seconds": 159.7,
+      "word_count": 451,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 638732
+    },
+    {
+      "day": 77,
+      "path": "./audio/listening-day-77.mp3",
+      "duration_seconds": 179.6,
+      "word_count": 457,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 718412
+    },
+    {
+      "day": 78,
+      "path": "./audio/listening-day-78.mp3",
+      "duration_seconds": 177.6,
+      "word_count": 491,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 710444
+    },
+    {
+      "day": 79,
+      "path": "./audio/listening-day-79.mp3",
+      "duration_seconds": 176.3,
+      "word_count": 479,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 705164
+    },
+    {
+      "day": 80,
+      "path": "./audio/listening-day-80.mp3",
+      "duration_seconds": 167.1,
+      "word_count": 464,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 668300
+    },
+    {
+      "day": 81,
+      "path": "./audio/listening-day-81.mp3",
+      "duration_seconds": 171.6,
+      "word_count": 470,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 686444
+    },
+    {
+      "day": 82,
+      "path": "./audio/listening-day-82.mp3",
+      "duration_seconds": 175.7,
+      "word_count": 471,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 702956
+    },
+    {
+      "day": 83,
+      "path": "./audio/listening-day-83.mp3",
+      "duration_seconds": 157.3,
+      "word_count": 451,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 629420
+    },
+    {
+      "day": 84,
+      "path": "./audio/listening-day-84.mp3",
+      "duration_seconds": 177.8,
+      "word_count": 459,
+      "voice": "Computer-generated English voice; profiles vary through the set",
+      "provenance": "Original IELTS Boost scripted practice; synthetic computer-generated speech; not official IELTS audio.",
+      "size_bytes": 711404
+    }
+  ],
+  "total_duration_seconds": 14383.6,
+  "total_duration_hms": "03:59:44",
+  "total_bytes": 57539664,
+  "total_size_mib": 54.87,
+  "release": "35.0.0",
+  "stage35_note": "Stage35 preserves the audited 84 original synthetic IELTS Boost practice MP3 files. They are not official IELTS recordings."
+}

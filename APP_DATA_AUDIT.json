@@ -1,0 +1,723 @@
+{
+  "meta": {
+    "release": "35.0.0",
+    "built": "2026-11-07",
+    "data_source": "IELTS Boost curriculum archive and reviewed 84-day practice content",
+    "word_count": 19000,
+    "article_count": 61,
+    "core_days": 84,
+    "external_policy": "Optional external sources only; local content is the default.",
+    "release_note": "Stage 35.0 Academic Content & Assessment Excellence: evidence-checked Reading/Listening Power Lab submissions, Task 1/Task 2-specific Writing criterion review, audio-backed Speaking self-review, and local source-backed glossary curation with JSON import/export.",
+    "sentence_patterns": 864,
+    "quality_disclosure": {
+      "reading": "84 original fictional practice passages (722–879 words), 840 questions (10/day), including TFNG, YNNG, matching headings, matching information, sentence and summary completion. 812 exact evidence quotes plus 28 explicitly marked absence/NOT GIVEN records. Not official IELTS or Cambridge material.",
+      "listening": "Each of the 84 days includes a downloadable/streamable MP3 made from the platform’s original scripted practice text using computer-generated English speech. These are original synthetic practice recordings, not official IELTS, Cambridge or British Council recordings. Official samples remain linked to the rights holder.",
+      "writing": "84 Task 1 visuals cover 14 each of line graph, bar chart, pie chart, table, process and map. Line, bar and table datasets now include comparison series; process uses a staged flow diagram and map uses a spatial before/after plan. All in-app figures are fictional practice data, not published statistics.",
+      "speaking": "84 original cue cards; Part 1/2/3 practice. Recording/transcription depends on device and browser. Local text heuristics are not pronunciation assessment.",
+      "vocabulary": "19,000 unique indexed word forms. The pre-existing 677 fully populated bilingual entries remain the glossary-ready core. 4,000 added CMUdict entries provide American pronunciation indexing only; they do not have English definitions, Uzbek translations, examples, POS or CEFR levels yet. Never describe all 19,000 as fully glossed.",
+      "offline": "PWA shell can be cached after first HTTPS/localhost load; progress uses local browser storage with temporary-memory fallback in restricted contexts. No cloud sync. Actual device/PWA offline acceptance remains open.",
+      "games": "The learner-facing Game Arena is consolidated to 10 major learning modules. Each module offers 10 practice modes, while the four core studios use that day’s real in-app passage, scripted MP3, Task 1 visual and Speaking prompt."
+    },
+    "stage25": {
+      "release": "25.1.0",
+      "name": "Advanced Reading Reconstruction",
+      "weekly_source_packs": 12,
+      "daily_ielts_question_formats": 14,
+      "daily_format_repetitions": 6,
+      "source_questions": 36,
+      "policy": "Daily case passages are clearly labelled original hypothetical practice; weekly source companions are independent syntheses linked to authoritative source pages. No publisher article/test has been reproduced.",
+      "daily_format_jump": "Each format card links to the nearest relevant interactive question in the daily comprehension set; formats not present in that day are labelled as a related focus rather than a separate scored item."
+    },
+    "stage26": {
+      "release": "26.0.0",
+      "name": "Authentic Listening Lab",
+      "daily_sessions": 84,
+      "british_council_sources": 42,
+      "british_council_breakdown": {
+        "B2": 12,
+        "C1": 12,
+        "Audio Zone": 18
+      },
+      "ielts_official_task_format_cards": 8,
+      "ielts_official_source_pages": 1,
+      "cambridge_user_access_tests": 4,
+      "distinct_source_entries": 54,
+      "deliberate_replay_sessions": 30,
+      "ma_rifat_jamal_steps": 5,
+      "integrated_audio_evidence_hunt_challenges": 3,
+      "score_policy": "The 0–10 Listening quality score requires a confirmed source recording, source tasks, transcript audit, written evidence, a transfer retest, all five personal-protocol steps, and explicit self-selected rubric scores. Game challenge points remain separate.",
+      "source_playback_policy": "Official external source pages open in a new tab; user-owned licensed audio can be uploaded to the in-app player. No protected audio or transcript is bundled.",
+      "limitations": "External player playback and device microphone/audio capabilities remain device-specific and were not verified in this sandbox."
+    },
+    "stage27": {
+      "release": "27.0.0",
+      "name": "Writing Expert Studio",
+      "daily_task1_visuals": 84,
+      "daily_task1_visual_families": {
+        "line_graph": 14,
+        "bar_chart": 14,
+        "pie_chart": 14,
+        "table": 14,
+        "process": 14,
+        "map": 14
+      },
+      "daily_task2_prompts": 84,
+      "unique_task2_prompts": 84,
+      "weekly_source_packs": [
+        {
+          "week": 1,
+          "theme": "Urban life, public space and liveability",
+          "purpose": "Task 2 idea-building: compare growth, access, health and environmental trade-offs.",
+          "sources": [
+            {
+              "name": "National Geographic · Urban heat island solutions",
+              "url": "https://www.nationalgeographic.com/environment/article/urban-heat-island-effect-solutions",
+              "kind": "expert journalism",
+              "use": "Find one claim, one practical response and one limitation; paraphrase rather than copy."
+            },
+            {
+              "name": "Our World in Data · Urbanization",
+              "url": "https://ourworldindata.org/urbanization",
+              "kind": "open research + data",
+              "use": "Check how urbanisation is defined; distinguish population share from city growth."
+            }
+          ],
+          "output": "Write a balanced paragraph on whether city investment should prioritise transport, green space or housing. Include a counterpoint."
+        },
+        {
+          "week": 2,
+          "theme": "Education, screens and technology",
+          "purpose": "Argument quality: separate correlation from causation and evaluate competing claims.",
+          "sources": [
+            {
+              "name": "The Guardian · Screen use and children’s learning (reported debate)",
+              "url": "https://www.theguardian.com/education/2026/aug/16/neuroscientist-screen-use-schools-educational-technology-jared-cooney-horvath",
+              "kind": "journalism / expert debate",
+              "use": "Identify the claim and the qualifications raised by other education experts; do not treat a reported opinion as settled fact."
+            },
+            {
+              "name": "Cambridge English · Write & Improve",
+              "url": "https://www.cambridgeenglish.org/learning-english/free-resources/write-and-improve/",
+              "kind": "writing practice tool",
+              "use": "Submit your own short paragraph, review the tool’s feedback, then edit it yourself. It is not an IELTS band score."
+            }
+          ],
+          "output": "Write a Task 2 body paragraph that weighs educational benefits against distraction and access differences."
+        },
+        {
+          "week": 3,
+          "theme": "Energy use and the transition to low-carbon systems",
+          "purpose": "Evidence handling: understand units, time series, shares and per-person comparisons.",
+          "sources": [
+            {
+              "name": "Our World in Data · Energy",
+              "url": "https://ourworldindata.org/energy",
+              "kind": "open data + analysis",
+              "use": "Check whether a chart measures primary energy, electricity generation or final consumption; these are not interchangeable."
+            },
+            {
+              "name": "Our World in Data · Energy mix",
+              "url": "https://ourworldindata.org/energy-mix",
+              "kind": "open data visualisation",
+              "use": "Describe the largest sources and changes; note the metric and data source before making a comparison."
+            }
+          ],
+          "output": "Write a Task 1-style overview from an independently selected public chart, recording the chart title, metric, date range and source."
+        },
+        {
+          "week": 4,
+          "theme": "Urban development and public services",
+          "purpose": "Compare places and indicators without confusing absolute totals with percentages.",
+          "sources": [
+            {
+              "name": "World Bank Data · Urban Development",
+              "url": "https://data.worldbank.org/topic/urban-development",
+              "kind": "official statistics portal",
+              "use": "Select one indicator and note its unit, year, country coverage and limitations."
+            },
+            {
+              "name": "Our World in Data · Urbanization",
+              "url": "https://ourworldindata.org/urbanization",
+              "kind": "open research + data",
+              "use": "Compare the measure used and explain what it does not measure."
+            }
+          ],
+          "output": "Create a four-sentence comparison plan: highest, lowest, notable gap and one careful limitation."
+        },
+        {
+          "week": 5,
+          "theme": "Education and human development",
+          "purpose": "Use data cautiously and avoid claims beyond the indicator.",
+          "sources": [
+            {
+              "name": "Our World in Data · Average years of schooling",
+              "url": "https://ourworldindata.org/grapher/years-of-schooling",
+              "kind": "open data chart",
+              "use": "Check the age group, date and the fact that years of schooling do not directly measure learning quality."
+            },
+            {
+              "name": "The Guardian · Education topic",
+              "url": "https://www.theguardian.com/education",
+              "kind": "journalism",
+              "use": "Compare an editorial claim with data or research before using it as an example."
+            }
+          ],
+          "output": "Write a Task 2 paragraph about education investment that distinguishes access, attainment and learning quality."
+        },
+        {
+          "week": 6,
+          "theme": "Climate, heat and adaptation",
+          "purpose": "Build a precise cause–effect chain and evaluate proposed solutions.",
+          "sources": [
+            {
+              "name": "National Geographic · Extreme heat days in US cities",
+              "url": "https://www.nationalgeographic.com/environment/article/increase-extreme-heat-days-climate-change",
+              "kind": "journalism based on an external analysis",
+              "use": "Identify the time comparison and the population/geographic scope; do not generalise beyond it."
+            },
+            {
+              "name": "Our World in Data · CO₂ and greenhouse gas emissions",
+              "url": "https://ourworldindata.org/co2-and-greenhouse-gas-emissions",
+              "kind": "open data + analysis",
+              "use": "Differentiate territorial emissions, consumption-based emissions and per-capita measures."
+            }
+          ],
+          "output": "Build a causes → consequences → response plan and include one limitation or unintended consequence."
+        },
+        {
+          "week": 7,
+          "theme": "AI, work and changing skills",
+          "purpose": "Develop a qualified position rather than a one-sided technology argument.",
+          "sources": [
+            {
+              "name": "The Guardian · Technology and education",
+              "url": "https://www.theguardian.com/technology/technology+education/education",
+              "kind": "journalism topic archive",
+              "use": "Choose a current article, record its publication date and separate reported facts from opinion."
+            },
+            {
+              "name": "Cambridge English · Learning English resources",
+              "url": "https://www.cambridgeenglish.org/learning-english/",
+              "kind": "learning resources",
+              "use": "Select a B2/C1 writing or language activity and record which correction you applied."
+            }
+          ],
+          "output": "Write a nuanced thesis on AI and work, then develop a benefit, a risk and a condition under which the benefit is more likely."
+        },
+        {
+          "week": 8,
+          "theme": "Water, infrastructure and public health",
+          "purpose": "Practise systems thinking and careful cause/effect explanation.",
+          "sources": [
+            {
+              "name": "Our World in Data · Clean water and sanitation",
+              "url": "https://ourworldindata.org/clean-water-sanitation",
+              "kind": "open data + analysis",
+              "use": "Check whether the indicator measures safely managed water, basic access or sanitation; these are not interchangeable."
+            },
+            {
+              "name": "WHO · Drinking-water",
+              "url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
+              "kind": "public health factsheet",
+              "use": "Use the factsheet to understand terms and consequences; paraphrase and cite the organisation."
+            }
+          ],
+          "output": "Write a problem–solution outline with a feasible intervention, responsible actor and measurable outcome."
+        },
+        {
+          "week": 9,
+          "theme": "Food systems and sustainable consumption",
+          "purpose": "Compare consumer choice, policy and supply-side factors.",
+          "sources": [
+            {
+              "name": "National Geographic · Environment",
+              "url": "https://www.nationalgeographic.com/environment",
+              "kind": "science journalism",
+              "use": "Choose one food/environment feature; identify the claim, evidence and caveat."
+            },
+            {
+              "name": "Our World in Data · Food",
+              "url": "https://ourworldindata.org/food-supply",
+              "kind": "open data + analysis",
+              "use": "Check whether the measure is food supply, consumption, production or waste."
+            }
+          ],
+          "output": "Write a two-sided argument about sustainable food choices, including what individual action cannot solve alone."
+        },
+        {
+          "week": 10,
+          "theme": "Health, ageing and public policy",
+          "purpose": "Use measured outcomes accurately and avoid unsupported medical generalisations.",
+          "sources": [
+            {
+              "name": "WHO · Health topics",
+              "url": "https://www.who.int/health-topics",
+              "kind": "public health evidence portal",
+              "use": "Use as background for definitions and public-health context; do not present a broad topic page as a specific study."
+            },
+            {
+              "name": "The Guardian · Health",
+              "url": "https://www.theguardian.com/society/health",
+              "kind": "journalism topic archive",
+              "use": "Record article date, named source and any uncertainty or disagreement."
+            }
+          ],
+          "output": "Develop a policy paragraph that explains who benefits, who pays and what evidence would show success."
+        },
+        {
+          "week": 11,
+          "theme": "Biodiversity and ecosystem protection",
+          "purpose": "Build complex comparisons and acknowledge competing land-use priorities.",
+          "sources": [
+            {
+              "name": "National Geographic · Environment",
+              "url": "https://www.nationalgeographic.com/environment",
+              "kind": "science journalism",
+              "use": "Choose a biodiversity or conservation article and separate observation from proposed solution."
+            },
+            {
+              "name": "Our World in Data · Biodiversity",
+              "url": "https://ourworldindata.org/biodiversity",
+              "kind": "open research + data",
+              "use": "Check which biodiversity measure is shown and what its geographical scope means."
+            }
+          ],
+          "output": "Write a balanced paragraph on conservation and development, including a practical trade-off and a reasoned solution."
+        },
+        {
+          "week": 12,
+          "theme": "Final synthesis and IELTS examiner expectations",
+          "purpose": "Compare your work with official samples, descriptor language and authentic feedback.",
+          "sources": [
+            {
+              "name": "IELTS.org · Academic Writing sample tasks and examiner comments",
+              "url": "https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test",
+              "kind": "official IELTS sample resource",
+              "use": "Review the sample task and examiner comments; compare organisation and task coverage, not memorised phrases."
+            },
+            {
+              "name": "IELTS.org · Writing assessment resources",
+              "url": "https://ielts.org/take-a-test/preparation-resources/writing-test-resources",
+              "kind": "official criteria resource",
+              "use": "Read the four criteria and annotate exact evidence in your own response."
+            },
+            {
+              "name": "British Council · Academic Writing practice",
+              "url": "https://takeielts.britishcouncil.org/prepare/ielts-free-practice-mock-tests/academic/writing",
+              "kind": "official partner practice",
+              "use": "Complete an official sample and compare your response with the published examiner guidance where available."
+            }
+          ],
+          "output": "Complete a final Task 1 + Task 2 pair, then compare both drafts with the relevant criterion checklist."
+        }
+      ],
+      "publisher_toolkit": [
+        {
+          "name": "IELTS.org · Academic Writing sample tasks",
+          "url": "https://ielts.org/take-a-test/preparation-resources/sample-test-questions/academic-test",
+          "kind": "official IELTS",
+          "note": "Original official sample tasks and examiner-commented candidate responses. Use as benchmark; the platform does not repackage the protected PDF."
+        },
+        {
+          "name": "IELTS.org · Writing assessment criteria",
+          "url": "https://ielts.org/take-a-test/preparation-resources/writing-test-resources",
+          "kind": "official IELTS",
+          "note": "Four assessment criteria and examiner explanation videos. The internal 0–10 practice score is not an IELTS band."
+        },
+        {
+          "name": "British Council · Academic Writing practice",
+          "url": "https://takeielts.britishcouncil.org/prepare/ielts-free-practice-mock-tests/academic/writing",
+          "kind": "official IELTS partner",
+          "note": "Academic Writing sample practice, including computer and paper sample experiences."
+        },
+        {
+          "name": "Cambridge English · Write & Improve",
+          "url": "https://www.cambridgeenglish.org/learning-english/free-resources/write-and-improve/",
+          "kind": "Cambridge English",
+          "note": "External feedback on spelling, grammar and vocabulary. It does not certify an IELTS Writing band; use it as a second opinion."
+        },
+        {
+          "name": "Collins · Writing for IELTS (2nd Edition) / ELT resources",
+          "url": "https://collins.co.uk/collections/elt-english-for-exams",
+          "kind": "publisher",
+          "note": "Book companion resource; teacher notes or audio access may require the purchased book or code."
+        },
+        {
+          "name": "Collins · ELT audio and book resources",
+          "url": "https://collins.co.uk/pages/elt-elt-audio-resources",
+          "kind": "publisher",
+          "note": "Official access instructions. Do not share protected book files or access passwords."
+        },
+        {
+          "name": "Barron’s · Online Learning Hub",
+          "url": "https://www.barronseduc.com/booksonline?search=IELTS",
+          "kind": "publisher",
+          "note": "Register by book title or ISBN to access companion resources tied to the purchased edition."
+        },
+        {
+          "name": "Our World in Data · Energy",
+          "url": "https://ourworldindata.org/energy",
+          "kind": "open-access research",
+          "note": "Open access under CC BY for OWID-produced content; check original third-party data terms and cite the underlying source."
+        },
+        {
+          "name": "Cambridge IELTS 18 Academic · official Cambridge Bookshop",
+          "url": "https://www.cambridgebookshop.co.uk/products/ielts-18-academic-students-book-with-answers-with-audio-with-resource-bank-authentic-practice-tests",
+          "kind": "publisher book page",
+          "note": "Book information and companion resource description. A purchased copy/access code may be required for full resources; no protected pages are bundled."
+        },
+        {
+          "name": "Cambridge IELTS book collection",
+          "url": "https://www.cambridgebookshop.co.uk/collections/ielts",
+          "kind": "publisher catalogue",
+          "note": "Check current editions and availability; Cambridge IELTS 8 is not verified in this Library, so no page map is invented."
+        }
+      ],
+      "cambridge_library_reference": {
+        "cambridge_11": "Senda mavjud Cambridge IELTS 11 Academic nusxasi uchun Writing sahifalari: Test 1 — 30–31; Test 2 — 54–55; Test 3 — 78; Test 4 — 100–101. Bu kitobning o‘z sahifa raqamlari.",
+        "cambridge_8_18": "Cambridge IELTS 18 uchun Cambridge Bookshop rasmiy sahifasi toolkit’da berilgan. Cambridge IELTS 8 nusxasi Library’da tasdiqlanmagan; uning Writing sahifalarini taxmin qilmaymiz."
+      },
+      "original_model_responses": [
+        {
+          "task": "Task 1",
+          "type": "Line graph",
+          "title": "Model: a changing indicator over four years",
+          "prompt": "The line graph shows a fictional indicator in 2010, 2015, 2020 and 2025.",
+          "response": "The line graph illustrates changes in a fictional indicator between 2010 and 2025. Overall, the figure fluctuated considerably, reaching a clear peak in 2020 before falling to its lowest level at the end of the period.\n\nThe indicator began at 57 points in 2010, then declined to 45 in 2015. It subsequently rose sharply by 38 points to a high of 83 in 2020. This upward movement was not sustained, however. By 2025, the figure had dropped to 28 points, which was less than half the opening value.\n\nThe most notable feature is therefore the contrast between the temporary peak in 2020 and the substantial decline over the final five years. Across the whole period, the indicator fell by 29 points, despite the marked mid-period recovery. The data describe a pattern of fluctuation rather than a steady upward or downward trend. In particular, the 2020 peak should not be presented as evidence of a long-term increase, because the final observation is markedly lower than that peak.",
+          "annotation": "The overview identifies the main pattern first; the body selects the peak, lowest point, turning point and net change. No cause is invented."
+        },
+        {
+          "task": "Task 1",
+          "type": "Bar chart",
+          "title": "Model: four programme stages",
+          "prompt": "The bar chart compares four fictional programme stages.",
+          "response": "The bar chart compares the number of reported cases at four stages of a fictional programme. Overall, the figure increased sharply after the initial stage, reached its highest point at the follow-up, and then declined slightly in the final review.\n\nAt the outset, 19 cases were recorded. This was substantially lower than the figure after the adjustment, which rose to 85. The number then increased marginally to 87 at the follow-up stage, representing the peak of the period. In the final review, the total fell to 76, a reduction of 11 cases compared with the preceding stage.\n\nDespite the small decrease at the end, the final figure remained approximately four times as high as the initial value. The main feature is the rapid rise between the first and second stages, followed by relative stability at a much higher level. The figures do not indicate why the change occurred; they only show how the recorded totals differed across the four stages.",
+          "annotation": "The comparison is selective and the final sentence avoids causal speculation."
+        },
+        {
+          "task": "Task 1",
+          "type": "Pie chart",
+          "title": "Model: distribution of four response categories",
+          "prompt": "The pie chart shows the fictional distribution of four response categories.",
+          "response": "The pie chart illustrates how responses were distributed across four fictional categories. Overall, the primary category accounted for the largest share, while the alternative category represented the smallest proportion. Together, the two largest categories made up almost two thirds of all responses.\n\nThe primary category was the most common, at 35%. The secondary category followed closely, accounting for 30%, which was five percentage points lower. By contrast, the alternative category represented only 14% of responses, making it the smallest segment. The remaining category accounted for 21%.\n\nThe difference between the largest and smallest shares was 21 percentage points. It is also notable that the two leading categories together represented 65% of the total, whereas the other two accounted for the remaining 35%. These proportions show that responses were concentrated in the first two categories rather than being evenly distributed. A useful final check is to confirm that the four percentages sum to 100%, and to use percentage-point language when comparing the size of two shares.",
+          "annotation": "Percentages are calculated from the fictional dataset. “Percentage points” is used for the difference between shares."
+        },
+        {
+          "task": "Task 1",
+          "type": "Table",
+          "title": "Model: comparison across four groups",
+          "prompt": "The table presents fictional results for four comparison groups.",
+          "response": "The table compares the number of units recorded in four fictional groups. Overall, Group C had the highest figure, whereas Group A recorded the lowest. Groups B and D occupied the middle positions, although the difference between them was relatively small.\n\nGroup C recorded 70 units, compared with 36 in Group A, a gap of 34. Group B was next, at 60 units, while Group D recorded 32. The two middle groups therefore differed by 28 units, so they were not as close as their positions in the ranking might initially suggest.\n\nThe most notable feature is the contrast between Group C and Group A. Group C’s total was almost twice that of Group A, while the figures for Groups B and D fell between these extremes. A concise report should focus on the ranking and the largest gap rather than describe every cell at equal length. All figures are illustrative practice data and should be reported only in the unit stated by the table.",
+          "annotation": "The model ranks the groups and highlights the largest gap; all figures match the displayed example dataset.",
+          "dataset": {
+            "labels": [
+              "Group A",
+              "Group B",
+              "Group C",
+              "Group D"
+            ],
+            "values": [
+              36,
+              60,
+              70,
+              32
+            ],
+            "unit": "units recorded (fictional practice data)"
+          }
+        },
+        {
+          "task": "Task 1",
+          "type": "Process diagram",
+          "title": "Model: a six-stage cataloguing process",
+          "prompt": "The diagram illustrates six stages in a cataloguing process.",
+          "response": "The diagram illustrates how an object is catalogued, from its collection to the publication of an approved record. Overall, the procedure consists of six stages and follows a linear sequence, with checks carried out before the final record is made public.\n\nFirst, objects are collected from the storage room and given temporary identification labels. Their condition is then photographed from several angles. Once this visual record has been created, the catalogue entry is checked against the physical object to ensure that the information is consistent.\n\nIn the next stage, a specialist examines any descriptions that remain uncertain. Finally, after the record has been approved, it is added to the public archive. The process therefore moves from initial identification and documentation to verification, specialist review and publication. No decision or cause beyond the stages shown in the diagram is assumed. The report also avoids describing the specialist review as an approval stage until the diagram explicitly shows that the record has been approved, which occurs immediately before publication.",
+          "annotation": "The process is written in a logical sequence, using passive forms and no invented stages."
+        },
+        {
+          "task": "Task 1",
+          "type": "Map comparison",
+          "title": "Model: a site before and after redevelopment",
+          "prompt": "The maps show a fictional site before and after redevelopment.",
+          "response": "The maps compare a fictional site before and after redevelopment. Overall, the layout was modernised: the main gallery was expanded, the courtyard became a covered learning area, and the former storage building was replaced by a conservation studio. The north gate was retained but improved with an access ramp.\n\nBefore redevelopment, the site contained a north gate, a main gallery, a small courtyard and a storage building. In the later plan, the entrance remained in the same general position, although an access ramp was added. The gallery occupied a larger area than before, while the courtyard was converted into a covered space for learning.\n\nThe most substantial change was the replacement of the storage building with a new conservation studio. Taken together, the changes increased the range of facilities while retaining the main entrance and gallery as recognisable features. As the plans are schematic, the description focuses on named features rather than distances or exact areas.",
+          "annotation": "The overview names the most important changes, and the report does not invent scale, direction or measurements."
+        },
+        {
+          "task": "Task 2",
+          "type": "Opinion / agree-disagree",
+          "title": "Model: public investment and long-term benefits",
+          "prompt": "Some people believe that governments should invest more in preventive public services. To what extent do you agree or disagree?",
+          "response": "Public investment in preventive services is often less visible than spending on immediate problems, yet it can produce substantial benefits over time. I largely agree that governments should give prevention a higher priority, provided that essential treatment and emergency provision are not weakened.\n\nThe strongest argument for prevention is that early intervention can reduce the scale and cost of later difficulties. When communities have reliable access to clear information, screening and practical support, problems may be identified before they become more complex. This can improve individual outcomes while reducing pressure on public institutions. Prevention can also make services fairer, since people with fewer resources are often least able to pay for early support themselves.\n\nHowever, prevention should not be treated as a substitute for immediate care. Some needs are urgent, and public systems must retain enough capacity to respond to illness, accidents and unexpected demand. In addition, preventive programmes are only effective when they are accessible and supported by credible evidence. A poorly designed campaign may consume resources without changing behaviour.\n\nThe most effective policy is therefore a balanced one: maintain dependable emergency services while directing additional investment towards preventive measures whose outcomes can be evaluated. This approach recognises both the long-term value of prevention and the continuing importance of immediate support. It also allows decision-makers to compare the cost of a programme with measurable outcomes, rather than assuming that every preventive intervention is automatically effective. Public reporting should also show who benefits, how widely the service is used and whether outcomes differ between neighbourhoods. Such evidence makes it easier to improve a programme and explain why its funding should continue.",
+          "annotation": "A clear but qualified position is maintained; each body paragraph develops a distinct reason and acknowledges limits."
+        },
+        {
+          "task": "Task 2",
+          "type": "Discuss both views",
+          "title": "Model: individual responsibility and institutional action",
+          "prompt": "Some people think individuals are mainly responsible for improving public wellbeing, while others believe institutions should take the lead. Discuss both views and give your opinion.",
+          "response": "People disagree about whether public wellbeing depends primarily on personal choices or on the institutions that shape everyday life. Although individuals must take responsibility for their own decisions, I believe that institutions have the greater ability to create conditions in which positive choices are realistic and widely available.\n\nThose who emphasise individual responsibility argue that lasting change requires personal commitment. People decide what habits to adopt, whether to seek reliable information and how consistently to follow advice. Even well-funded public programmes may have little effect if individuals do not engage with them. Personal responsibility also matters because needs and circumstances differ, making a single policy unsuitable for everyone.\n\nNevertheless, institutions influence the options available to the public. Schools, employers and local authorities can provide safe spaces, accessible information and services that individuals cannot create on their own. For example, a person may understand the value of regular activity but lack safe public areas or affordable facilities. In such circumstances, advice alone is unlikely to solve the problem. Institutional decisions can therefore affect entire communities, including people with limited resources.\n\nIn my view, the two forms of responsibility are complementary, but institutional action should lead. Public bodies can establish fair conditions, while individuals decide how to use the opportunities provided. A policy is most effective when it combines accessible services with informed personal participation. This division of responsibility avoids blaming individuals for barriers they cannot remove themselves, while still recognising that public programmes depend on engagement and trust. It is therefore more realistic to ask institutions to create fair opportunities and residents to participate in ways that suit their circumstances.",
+          "annotation": "Both views receive development before the writer gives a reasoned judgement."
+        },
+        {
+          "task": "Task 2",
+          "type": "Advantages and disadvantages",
+          "title": "Model: advantages and disadvantages of digital services",
+          "prompt": "Discuss the advantages and disadvantages of the growing use of digital public services.",
+          "response": "Digital public services can make everyday administration faster and more convenient, but their expansion also raises questions about access and reliability. On balance, the advantages are considerable, although they depend on whether non-digital alternatives remain available.\n\nOne clear benefit is efficiency. People may complete routine tasks without travelling to an office or waiting for an appointment. This can save time for users and allow public employees to focus on cases that require direct attention. Digital systems can also make information easier to update and distribute, reducing the risk that different offices provide inconsistent instructions.\n\nHowever, online services may exclude people who lack reliable internet access, suitable devices or confidence using digital tools. Technical failures can also interrupt essential services, while poorly protected systems create privacy and security risks. These disadvantages are particularly serious when a digital platform becomes the only route to support.\n\nThe benefits therefore outweigh the drawbacks only when services are designed inclusively. In addition, digital systems should be introduced gradually, with clear instructions and accessible support, so that people who are less confident with technology are not left behind during the transition. Clear complaints procedures are also necessary for users who encounter errors. Governments should provide accessible interfaces, protect personal data and retain telephone or face-to-face help for those who need it. Digital delivery should improve access rather than make assistance conditional on technical ability. Regular user testing, clear privacy rules and staff support are therefore as important as the software itself; otherwise, a system designed for efficiency may create new forms of exclusion.",
+          "annotation": "The essay compares both sides and makes the judgement conditional, not absolute."
+        },
+        {
+          "task": "Task 2",
+          "type": "Problems and solutions",
+          "title": "Model: congestion and practical measures",
+          "prompt": "Many cities face increasing traffic congestion. What problems does this cause, and what measures could address it?",
+          "response": "Growing traffic congestion creates problems that extend beyond longer journeys. It affects the environment, reduces economic efficiency and can make urban life less predictable. Addressing it requires more than simply building additional roads; cities need reliable alternatives to private car use.\n\nOne consequence is the loss of time. When roads are heavily congested, workers and businesses cannot plan journeys accurately, and deliveries become less dependable. Traffic also increases local air pollution and noise, which can reduce residents’ quality of life. These effects are not distributed equally: people living near major roads may experience the greatest exposure, even if they do not own a car.\n\nA practical response is to improve the frequency, coverage and affordability of public transport. If buses and trains provide dependable connections, some commuters may choose them instead of driving. Safe walking and cycling routes can also make short journeys less car-dependent. In the busiest areas, carefully designed parking policies or congestion charges may encourage a shift, although such measures should be accompanied by affordable alternatives so that lower-income residents are not unfairly burdened.\n\nNo single measure will remove congestion entirely. A combination of better public transport, safer active travel and fair demand management is more likely to reduce traffic while preserving access to jobs and services. The effectiveness of each measure should be assessed through journey reliability, affordability and local air-quality indicators, rather than road speed alone. Reviews should be published so residents can judge whether the chosen measures improve journey reliability and access, rather than merely shifting traffic from one street to another. This is especially important when new charges affect people who have few alternatives.",
+          "annotation": "The response links each proposed solution to a problem and notes an equity risk."
+        },
+        {
+          "task": "Task 2",
+          "type": "Two-part question",
+          "title": "Model: why a trend is growing and what it may mean",
+          "prompt": "More people are choosing to study online. Why is this happening, and what effects may it have on education?",
+          "response": "Online study has become more common because digital platforms offer flexibility and can connect learners with courses that may not be available locally. This shift can widen access, but it may also change the way students participate and receive support.\n\nA major reason for the growth of online learning is convenience. Learners can often choose when to study and avoid the cost or time associated with travelling to an educational institution. Online platforms may also provide access to specialist teachers, recorded explanations and materials that can be revisited. For adults who combine education with work or family responsibilities, this flexibility can make further study possible.\n\nThe effects are mixed. On the positive side, students can learn at a pace that suits their needs and may benefit from a wider range of resources. However, online education can reduce informal interaction with teachers and classmates. Learners who have limited internet access, unsuitable study conditions or weak self-management skills may find it difficult to remain engaged. The quality of online courses also varies, so access to a platform does not automatically guarantee effective learning.\n\nOverall, online study is likely to remain an important part of education because it offers genuine flexibility. Its value will depend on course design, student support and whether institutions provide alternatives for learners who cannot study effectively online. A blended model may therefore be preferable in subjects that require discussion, practical feedback or supervised work, while fully online provision can remain useful for flexible content-based study. Teachers can review these supports as learners become more confident, gradually reducing guidance while keeping help available when a student encounters a new difficulty.",
+          "annotation": "Both parts of the question are answered in separate, developed sections."
+        }
+      ],
+      "pedagogy": "Task-focused Academic Writing practice. Official exam descriptors inform the learning checklist; local checks are heuristic and never claim to assign an IELTS band.",
+      "data_policy": "All 84 in-app Task 1 datasets are original fictional practice datasets. Real-world reading and data sources are linked separately for idea-building and evidence literacy; figures are not copied or represented as real statistics.",
+      "rights_policy": "No copyrighted publisher tests, paid book scans, protected audio, model scripts or password-protected companion files are bundled. The platform links to official sources and supports the learner’s own licensed study copies.",
+      "language_policy": "Uzbek for navigation, explanations and study instructions; English for IELTS prompts, source material, model responses and writing output.",
+      "scoring_policy": "Internal criterion review uses four 0–10 practice ratings. Task 2 is weighted twice as much as Task 1 for the combined practice index. This is not an official IELTS band score.",
+      "limitations": "Local writing audit is rule-based. It cannot fully evaluate relevance, argument validity, factual accuracy, naturalness or assign an official examiner band."
+    },
+    "stage28": {
+      "name": "Speaking Intelligence Studio",
+      "days": 84,
+      "unique_part1_questions": 252,
+      "unique_part2_cue_cards": 84,
+      "unique_part3_questions": 252,
+      "weekly_progression": 12,
+      "daily_voice_challenges": 84,
+      "recording": "MediaRecorder + IndexedDB per Part 1/2/3 and daily challenge; requires HTTPS/localhost and permission.",
+      "assessment": "Official four criteria; internal 0–10 self-review; heuristic transcript check only; no fake AI band or pronunciation score.",
+      "status": "Built candidate; static QA verified. Chromium run and actual microphone/device/GitHub Pages tests still need target-device verification."
+    },
+    "stage33": {
+      "release": "33.2.0",
+      "name": "Final Learning Lab Refinement",
+      "date": "2026-11-07",
+      "curriculum_days": 84,
+      "mandatory_daily_skills": 4,
+      "skill_sessions": 336,
+      "navigation_sections": 16,
+      "reading_passages": 84,
+      "reading_questions": 840,
+      "listening_original_scripts": 84,
+      "listening_questions": 420,
+      "writing_task1_visuals": 84,
+      "writing_task2_prompts": 84,
+      "speaking_prompt_sets": 84,
+      "vocabulary_index_entries": 19000,
+      "vocabulary_complete_bilingual_glosses": 677,
+      "vocabulary_ipa_fields": 15677,
+      "pattern_cards": 864,
+      "articles": 61,
+      "weekly_source_packs": 12,
+      "game_count": 10,
+      "mock_tests_mapped": 6,
+      "score_integrity": "Only saved, valid evidence-based records contribute; internal 0–10 scores are not IELTS band scores.",
+      "storage_policy": "Local-first; the existing storage key is retained; no cloud sync claim.",
+      "verification": "Static syntax/data/asset QA only until browser policy allows a fresh Chromium run; real microphone and hosted offline acceptance are not claimed.",
+      "listening_mp3_tracks": 84,
+      "listening_scripts": 84,
+      "game_modes": 100,
+      "task1_visual_families": {
+        "line_graph": 14,
+        "bar_chart": 14,
+        "pie_chart": 14,
+        "table": 14,
+        "process": 14,
+        "map": 14
+      }
+    },
+    "final_refinements": [
+      "Power Lab drafts are isolated by day, module and mode; old flat drafts migrate into mode 0.",
+      "Writing mode 9 provides a distinct Task 2 thesis and argument-planning workflow.",
+      "Writing mode 10 provides four-criterion learner self-review; no examiner band is inferred.",
+      "Official IELTS Academic and British Council sample/practice links are embedded in relevant core studios."
+    ],
+    "stage35": {
+      "release": "35.0.0",
+      "name": "Academic Content & Assessment Excellence",
+      "date": "2026-11-07",
+      "reading": {
+        "days": 84,
+        "questions": 840,
+        "exact_passage_evidence": 812,
+        "not_given_absence_cases": 28,
+        "invalid_answer_indices": 0,
+        "missing_explanations": 0,
+        "passage_word_range": [
+          722,
+          879
+        ],
+        "method": "Power Lab challenge submission requires an answer, exact passage quote for normal answers, and reason. NOT GIVEN requires an absence rationale and no external knowledge."
+      },
+      "listening": {
+        "days": 84,
+        "questions": 420,
+        "exact_script_evidence": 420,
+        "invalid_answer_indices": 0,
+        "missing_explanations": 0,
+        "script_word_range": [
+          446,
+          493
+        ],
+        "method": "Power Lab challenge submission requires the day MP3 to be played and a phrase that matches the scripted source. Audio is synthetic original IELTS Boost practice, not official IELTS audio."
+      },
+      "writing": {
+        "task1_visuals": 84,
+        "task1_distribution": {
+          "line_graph": 14,
+          "bar_chart": 14,
+          "pie_chart": 14,
+          "table": 14,
+          "process": 14,
+          "map": 14
+        },
+        "task2_prompts": 84,
+        "unique_task2_prompts": 84,
+        "criteria": [
+          "Task Achievement (Task 1) / Task Response (Task 2)",
+          "Coherence & Cohesion",
+          "Lexical Resource",
+          "Grammatical Range & Accuracy"
+        ],
+        "evidence_per_criterion_required": true,
+        "minimum_words": {
+          "task1": 150,
+          "task2": 250
+        },
+        "task2_prompt_taxonomy": {
+          "Opinion / extent": 14,
+          "Discuss both views": 21,
+          "Advantages / disadvantages": 21,
+          "Problem / solution + direct": 14,
+          "Cause / effect": 7,
+          "Outweigh": 7
+        },
+        "self_review_only": true
+      },
+      "speaking": {
+        "part1_prompts": 252,
+        "part2_cue_cards": 84,
+        "part3_prompts": 252,
+        "criteria": [
+          "Fluency & Coherence",
+          "Lexical Resource",
+          "Grammatical Range & Accuracy",
+          "Pronunciation"
+        ],
+        "audio_recording_and_replay_required_for_powerlab_review": true,
+        "pronunciation_from_transcript": false,
+        "self_review_only": true
+      },
+      "vocabulary": {
+        "indexed_unique_forms": 19000,
+        "strict_bundled_glossary": 677,
+        "pronunciation_index_only": 4000,
+        "manual_enrichment_without_definition": 14323,
+        "daily_recall_complete_gloss_entries": 672,
+        "local_curator": "Source URL/title, English definition, Uzbek sense, original example, POS, sense note, optional US/UK IPA and separate CEFR source URL; learner-reviewed overrides saved locally with JSON import/export.",
+        "cefr_policy": "Inherited levels remain estimates; a learner must check and record a sense-level source before assigning a verified CEFR label."
+      },
+      "quality_policy": "No automatic IELTS examiner band is generated. Local 0–10 values are practice metrics. Official IELTS descriptors are paraphrased as guidance and linked to rights holders; no protected tests, audio or publisher text were copied.",
+      "qa": {
+        "node_logic_harness_passed": 21,
+        "node_logic_harness_total": 21,
+        "mp3_full_decode_passed": 84,
+        "mp3_total": 84,
+        "browser_android_acceptance": "open"
+      }
+    }
+  },
+  "vocabulary_stats": {
+    "total_indexed": 19000,
+    "previous_entries": 15000,
+    "new_cmudict_pronunciation_entries": 4000,
+    "full_bilingual_gloss_count": 677,
+    "note": "The new 4,000 are pronunciation-only; no meanings/translations/CEFR were invented."
+  },
+  "audio": {
+    "tracks": 84,
+    "format": "MP3 mono 24 kHz, 32 kbps",
+    "total_bytes": 57539664,
+    "provenance": "Original IELTS Boost scripts read with computer-generated English speech; not official IELTS audio.",
+    "total_size_mib": 54.87,
+    "total_duration_hms": "03:59:44",
+    "shortest_track_seconds": 156.7,
+    "longest_track_seconds": 192.3
+  },
+  "visuals": {
+    "daily_visuals": 84,
+    "type_counts": {
+      "line_graph": 14,
+      "bar_chart": 14,
+      "pie_chart": 14,
+      "table": 14,
+      "process": 14,
+      "map": 14
+    },
+    "line_and_bar": "Comparison-series enabled; all data are original fictional practice figures.",
+    "map_process": "Spatial plan and staged flow diagram rendered as SVG."
+  },
+  "learning_labs": {
+    "module_count": 10,
+    "missions_per_module": 10,
+    "core_modules": [
+      "Reading Evidence Studio",
+      "Listening Audio Mission",
+      "Writing Visual Studio",
+      "Speaking Response Studio"
+    ],
+    "supplementary_modules": [
+      "Collocation Forge",
+      "Pronunciation Clinic",
+      "Paraphrase Arena",
+      "Grammar Architect",
+      "Vocabulary Recall",
+      "Academic Fluency Builder"
+    ]
+  },
+  "final_static_qa": {
+    "app_data_json": "PASS",
+    "embedded_application_javascript": "PASS — node --check",
+    "service_worker_javascript": "PASS — node --check",
+    "pwa_manifest_json": "PASS",
+    "audio_manifest_json": "PASS",
+    "curriculum_and_question_keys": "PASS — 84 days; 840 Reading; 420 Listening; all answer indexes valid",
+    "learning_modules": "PASS — 10 modules × 10 modes = 100",
+    "task1_visual_render_harness": "PASS — 84/84; line/bar/table render both comparison series; process, pie and spatial before/after map all present",
+    "audio_assets": "PASS — 84/84 ffprobe and full ffmpeg decode; duration 03:59:44; Range 206 response tested",
+    "vocabulary_index": "PASS — 19,000 unique normalized entries; 677 fully populated glossary records",
+    "chromium_and_physical_device": "NOT VERIFIED — sandbox browser navigation returned ERR_BLOCKED_BY_ADMINISTRATOR; device/hosted acceptance remains open",
+    "all_ten_lab_submit_harness": "PASS — all 10 modules validated and saved an isolated test attempt",
+    "power_lab_draft_isolation": "PASS — module/day/mode isolation; legacy Stage 33.1 draft migration to first mode (index 0)",
+    "writing_task2_thesis_mode": "PASS — separate prompt, validation and practice-only score",
+    "writing_four_criterion_review": "PASS — four explicit self-ratings and evidence; no examiner score claim",
+    "official_core_source_links": "PASS — IELTS.org Academic samples/Writing format and British Council Academic Writing/Listening practice URLs embedded",
+    "power_lab_hub": "PASS — exactly 10 visible module cards: 4 core IELTS studios + 6 language labs",
+    "all_100_mode_render_harness": "PASS — all 10 modules × 10 modes rendered; no empty/NaN/undefined markup",
+    "all_core_and_lab_submit_harness": "PASS — 12 distinct submit/save workflows including Writing Task 2 and four-criterion self-review",
+    "writing_empty_criterion_validation": "PASS — empty criterion input is rejected rather than silently scored as zero",
+    "service_worker_range": "PASS — full 200, partial 206, suffix 206 and invalid 416 response harness"
+  },
+  "quality_disclosure": {
+    "reading": "84 original hypothetical practice passages; 840 unique questions. 812 have exact passage evidence and 28 are explicit NOT GIVEN absence cases; no official IELTS/Cambridge passage is reproduced.",
+    "listening": "84 original synthetic MP3 practice recordings; 420 questions. 420/420 question evidence strings exactly match the source script. These are not official or human-recorded IELTS recordings.",
+    "writing": "84 unique Task 2 prompts; 84 Task 1 visuals across six visual families (14 each). Stage35 adds Task1/Task2-specific criterion anchors and evidence-based learner self-review; not examiner scoring.",
+    "speaking": "84 original cue cards and 252 Part1 / 252 Part3 prompts. Power Lab review uses four official criterion names, audio replay and transcript evidence. Pronunciation is not inferred from transcript.",
+    "vocabulary": "19000 unique indexed forms; 677 bundled full glossary entries; 4000 pronunciation-index-only entries; 14323 manual enrichment rows without English definitions. Local source-backed curation is learner-reviewed, not automatically certified.",
+    "offline": "PWA shell can be cached after first HTTPS/localhost load; progress uses local browser storage with temporary-memory fallback in restricted contexts. No cloud sync. Actual device/PWA offline acceptance remains open.",
+    "games": "The learner-facing Game Arena is consolidated to 10 major learning modules. Each module offers 10 practice modes, while the four core studios use that day’s real in-app passage, scripted MP3, Task 1 visual and Speaking prompt."
+  }
+}
